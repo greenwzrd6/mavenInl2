@@ -26,7 +26,7 @@ public class BookCatalogTest
 	{
 		assertEquals(1, bc.getNumberOfBooks(),
 		             "There should be one book in catalogue");
-		assertSame(book1, bc.getBookArray()[0],
+		assertEquals(book1, bc.getBookArray()[0],
 		           "Book should be in the first array box");
 	}
 

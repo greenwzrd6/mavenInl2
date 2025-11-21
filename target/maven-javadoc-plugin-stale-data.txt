@@ -6,14 +6,14 @@
 -source
 '21'
 -sourcepath
-'/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/src/main/java'
+'/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/src/main/java'
 -author
 -bottom
 'Copyright &#169; 2025. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs'
+'/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
@@ -25,25 +25,25 @@
 se.yrgo.library.ui
 se.yrgo.library.models
 se.yrgo.library.utilities
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/src/main/java = 1763112323741
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/tag-search-index.js = 1763738805210
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/overview-tree.html = 1763738805199
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/module-search-index.js = 1763738805209
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/index.html = 1763738805200
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/package-search-index.js = 1763738805209
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/link.svg = 1763738805223
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/serialized-form.html = 1763738805176
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/index-all.html = 1763738805217
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/allpackages-index.html = 1763738805209
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/member-search-index.js = 1763738805210
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/copy.svg = 1763738805223
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/script.js = 1763738805223
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/stylesheet.css = 1763738805222
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/search-page.js = 1763738805225
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/overview-summary.html = 1763738805219
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/help-doc.html = 1763738805221
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/element-list = 1763738805153
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/search.html = 1763738805218
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/allclasses-index.html = 1763738805208
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/type-search-index.js = 1763738805210
-/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/inl2Maven/library/target/site/apidocs/search.js = 1763738805224
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/src/main/java = 1763112323741
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/tag-search-index.js = 1763741800024
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/overview-tree.html = 1763741800013
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/module-search-index.js = 1763741800023
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/index.html = 1763741800015
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/package-search-index.js = 1763741800023
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/link.svg = 1763741800035
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/serialized-form.html = 1763741799994
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/index-all.html = 1763741800030
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/allpackages-index.html = 1763741800022
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/member-search-index.js = 1763741800023
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/copy.svg = 1763741800035
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/script.js = 1763741800034
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/stylesheet.css = 1763741800034
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/search-page.js = 1763741800036
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/overview-summary.html = 1763741800031
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/help-doc.html = 1763741800033
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/element-list = 1763741799978
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/search.html = 1763741800031
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/allclasses-index.html = 1763741800022
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/type-search-index.js = 1763741800023
+/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library/target/site/apidocs/search.js = 1763741800036

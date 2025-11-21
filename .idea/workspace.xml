@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb4c5c37-3e41-4d62-a000-ede9de7e6d6c" name="Changes" comment="" />
+    <list default="true" id="cb4c5c37-3e41-4d62-a000-ede9de7e6d6c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/yrgo/library/BookCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/yrgo/library/BookCatalogTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,8 +41,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/apamannen/Documents/Yrgo/Utvecklingsverktyg/inl2/library",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,7 +62,7 @@
       <recent name="se.yrgo.library" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BookCatalogTest and 2 more">
+  <component name="RunManager" selected="JUnit.BookCatalogTest.testAddABook">
     <configuration name="BookCatalogTest and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="library" />
       <option name="TEST_OBJECT" value="pattern" />
@@ -137,10 +140,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BookCatalogTest.testAddABook" />
         <item itemvalue="JUnit.BookCatalogTest and 2 more" />
         <item itemvalue="JUnit.LoanTest.testDueDate" />
         <item itemvalue="JUnit.BookCatalogTest" />
-        <item itemvalue="JUnit.BookCatalogTest.testAddABook" />
         <item itemvalue="JUnit.BookCatalogTest.testFindBookWithExtraSpaces" />
       </list>
     </recent_temporary>
@@ -164,10 +167,22 @@
       <workItem from="1763623522764" duration="6515000" />
       <workItem from="1763725880056" duration="5797000" />
       <workItem from="1763731735711" duration="4086000" />
+      <workItem from="1763740103993" duration="1599000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
