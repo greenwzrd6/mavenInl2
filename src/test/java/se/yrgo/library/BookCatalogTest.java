@@ -34,14 +34,14 @@ public class BookCatalogTest
 	@Test
 	public void testFindBook() throws BookNotFoundException
 	{
-		assertSame(book1, bc.findBook("Hello-Java"), "Book should exist");
+		assertEquals(book1, bc.findBook("Hello-Java"), "Book should exist");
 	}
 
 	//G
 	@Test
 	public void testFindBookIgnoringCase() throws BookNotFoundException
 	{
-		assertSame(book1, bc.findBook("hello-java"),
+		assertEquals(book1, bc.findBook("hello-java"),
 		           "Book should exist, even when searching with lowercase");
 	}
 
@@ -56,10 +56,10 @@ public class BookCatalogTest
 	//VG
 	// This test should throw BookNotFoundException in order to pass.
 	@Test
-	public void testFindBookThatDoesntExist() throws BookNotFoundException
+	public void testFindBookThatDoesntExist()
 	{
 		assertThrows(BookNotFoundException.class, () -> bc.findBook("hej"),
-		             "Book should not be found and throw and exception");
+		             "Book should not be found and throw BookNotFoundException");
 	}
 
 }
