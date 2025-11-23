@@ -1,8 +1,8 @@
-Jag använder mig av mvn compile för att först kompilera alla klasser. Klasserna ligger under target/classes
+Jag använder mig av mvn compile för att först kompilera alla klasser. Klass-filerna lägger sig under target/classes
 
 Jag använder mig sen av mvn clean för att städa upp och ta bort klasserna. Detta tar bort hela target katalogen.
 
-Sedan använder jag mig av mvn javadoc för att skapa en javadoc. Den lägger sig under target/site/apidocs och heter index.html
+Sedan använder jag mig av mvn javadoc:javadoc för att skapa en javadoc. Jag har ett plugin som heter maven-javadoc-plugin som ligger i min pomfil. Javadocen lägger sig under target/site/apidocs och heter index.html
 
 Sedan använder jag mig av mvn test för att köra alla mina tester, eftersom jag har ett plugin som heter maven-surefire så kommer testrapporterna att sparas under target/surefire-reports. Jag har också installerat ett extraplugin som heter maven-surefire-report som gör en HTML-fil av test rapporterna och den skapar jag genom att köra kommandot mvn surefire-report:report. HTML-filen lägger sig under target/site.
 
